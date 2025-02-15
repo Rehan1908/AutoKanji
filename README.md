@@ -37,17 +37,20 @@ The **Yomitan Extension** and **Anki** are recommended if you plan to use the au
 ### Clone the repository:
 ```bash
 git clone https://github.com/Rehan1908/AutoKanji.git
-cd my-ankii
+cd AutoKanji
 ```
 
 ### Install dependencies for the frontend and both backends:
 #### In the root folder (for the main backend and frontend):
 ```bash
+cd frontend
 npm install
 ```
 #### In the `my-ankii/kanjiserver` folder, install its dependencies:
 ```bash
-cd my-ankii/kanjiserver
+cd my-ankii/
+npm install
+cd my-amkii/kanjiserver
 npm install
 ```
 
