@@ -1,0 +1,56 @@
+/* GettingStartedPage.css */
+.getting-started-container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+.getting-started-container h1 {
+  text-align: center;
+  margin-bottom: 20px;
+  font-size: 2.5rem;
+}
+
+.getting-started-container h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 1.75rem;
+  color: #444;
+}
+
+.getting-started-container p {
+  margin-bottom: 16px;
+  font-size: 1rem;
+}
+
+.getting-started-container ol,
+.getting-started-container ul {
+  margin-left: 20px;
+  margin-bottom: 16px;
+  font-size: 1rem;
+}
+
+.getting-started-container pre {
+  background-color: #f4f4f4;
+  padding: 10px;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-family: monospace;
+  font-size: 0.95rem;
+}
+
+.getting-started-container code {
+  font-family: monospace;
+}
+
+.getting-started-container a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.getting-started-container a:hover {
+  text-decoration: underline;
+}
