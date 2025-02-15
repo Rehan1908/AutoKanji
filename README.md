@@ -36,7 +36,7 @@ The **Yomitan Extension** and **Anki** are recommended if you plan to use the au
 ## Installation
 ### Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Rehan1908/AutoKanji.git
 cd my-ankii
 ```
 
